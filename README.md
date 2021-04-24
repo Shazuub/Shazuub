@@ -1,14 +1,6 @@
-### Salut Je suis Shazuub et voici mon Github 👋
+### Hi, mate 👋
 
+- 🌱 I’m currently working on `SCore | MenuV`
+- 📫 How to reach me: Shazuub#6666
 
-### Mais statistique !
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shazuub&count_private=true&show_icons=true?theme=buefy)
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shazuub)](https://github.com/anuraghazra/github-readme-stats-dark)
-
----
-
-[discord]: Shazuub#7284
+[![Shazuub's github stats](https://github-readme-stats.vercel.app/api?username=Shazuub)](https://github.com/anuraghazra/github-readme-stats)
