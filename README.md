@@ -1,8 +1,5 @@
 ### **Salut, je suis [Shazuub](https://github.com/Shazuub) 👋***
 
-
-Salut, je suis Shazuub, un développeur de Belgique.
-
 - 🔭 je travaille actuellement sur `PRLServ V5`
 
 
