@@ -1,6 +1,11 @@
-### Hi, mate 👋
+### **Salut, je suis [Shazuub](https://github.com/Shazuub) 👋***
 
-- 🌱 I’m currently working on `SCore | MenuV`
-- 📫 How to reach me: Shazuub#6666
+
+Salut, je suis Shazuub, un développeur de Belgique.
+
+- 🔭 je travaille actuellement sur `PRLServ V5`
 
 ![Shazuub GitHub stats](https://github-readme-stats.vercel.app/api?username=Shazuub&show_icons=true&theme=radical)
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shazuub)](https://github.com/Shazuub/github-readme-stats)
