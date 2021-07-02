@@ -1,6 +1,6 @@
 ### **Salut, je suis [Shazuub](https://github.com/Shazuub) 👋***
 
-- 🔭 je travaille actuellement sur `Final V`
+- 🔭 je travaille actuellement sur  [ZeroTwo-Bot](https://github.com/Shazuub/ZeroTwo-Bot) & [Darling-Bot](https://github.com/Shazuub/Darling-Bot)
 
 
 
