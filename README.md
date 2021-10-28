@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dhz542165?tab=repositories">
-<img  src="https://github-readme-stats.vercel.app/api?username=dhz542165&hide=issues&show_icons=true&theme=onedark" data-canonical-src="https://github-readme-stats.vercel.app/api?username=dhz542165&hide=issues&show_icons=true&theme=onedark">
+  <a href="https://github.com/Shazuub?tab=repositories">
+<img  src="https://github-readme-stats.vercel.app/api?username=Shazuub&hide=issues&show_icons=true&theme=onedark" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Shazuub&hide=issues&show_icons=true&theme=onedark">
     </a>
 </p>
 
